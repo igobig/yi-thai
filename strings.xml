@@ -98,7 +98,7 @@
     <string name="tvBatteryLevelValuePercentage">%</string>
     <string name="next">ไป</string>
     <string name="tvRecordMode">วีดีโอ</string>
-    <string name="tvQuickShotMode">ถ่ายภาพ</string>
+    <string name="tvQuickShotMode">ถ่ายภาพเคลื่อนไหว</string>
     <string name="tvPhotographMode">รูปภาพ</string>
     <string name="tvDevide">|</string>
     <string name="tvResolution" />
@@ -208,6 +208,7 @@
     <string name="setting_loop_record">บันทึกแบบวนรอบ</string>
     <string name="setting_warp_enable">แก้ไขเลนส์</string>
     <string name="setting_start_wifi_while_booted">เปิด WIFI อัตโนมัติกับอุปกรณ์</string>
+    <string name="setting_video_output_status">AV Output</string>
     <string name="setting_buzzer_volume">ระดับเสียงกริ่ง</string>
     <string name="setting_wifi">ตั้งค่า WiFi</string>
     <string name="setting_led_mode">โหมด LED</string>
@@ -441,7 +442,7 @@
     <string name="none">ไม่ทราบประเภท</string>
     <string name="sd_error">ไม่พบ SDการ์ด.</string>
     <string name="record">วิดีโอ</string>
-    <string name="capture">รูปภาพ</string>
+    <string name="capture">จับภาพ</string>
     <string name="prompt_switch_network_title">สลับเครือข่าย</string>
     <string name="prompt_switch_network_messsage">เราจะตัดการเชื่อมต่อคุณกับกล้องของคุณและเชื่อมต่อคุณกับที่ถูกต้อง 3G / WIFI คุณแน่ใจแล้วหรือที่จะดำเนินการ?</string>
     <string name="title_video_share">แชร์วิดีโอ</string>
@@ -508,6 +509,12 @@
     <string name="faq_sd_card">ปัญหาSDการ์ด</string>
     <string name="faq_boot_shut">สวิทช์</string>
     <string name="faq_others">อื่นๆ</string>
+	<string name="recording_sound_not_allowed">当前分辨率不支持录制声音</string>
+    <string name="upload_failed">上传失败,请重试!</string>
+    <string name="wait_for_download_complete">请先等待视频下载完成！</string>
+    <string name="network_disconnect">网络不可用</string>
+    <string name="retry_after_connect_network">请联网后重试</string>
+    <string name="retry">重试</string>
     <string name="network_error">เชื่อมต่อเครือข่ายใช้งานไม่ได้โปรดลองอีกครั้ง.</string>
     <string name="please_open_miui_cloud">Please enable MIUI cloud gallery!</string>
     <string name="check_new_version">กำลังตรวจสอบเวอร์ชั่นใหม่...</string>
