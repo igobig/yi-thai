@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>All_Select</key>
+	<string>เลือกทั้งหมด</string>
+	<key>AvailableCapacity</key>
+	<string>พื้นที่เหลือ</string>
+	<key>Back</key>
+	<string>ย้อนหลับ</string>
+	<key>Burst Quality photoing</key>
+	<string>Burst mode</string>
+	<key>Camera</key>
+	<string>รูปภาพ</string>
+	<key>Camera Recording</key>
+	<string>วิดีโอ</string>
+	<key>Camera connection failed, please check your WiFi connection is normal</key>
+	<string>ไม่สามารถเชื่อมต่อ ไวไฟ, โปรดเช็คเครือข่าย</string>
+	<key>CameraSetting</key>
+	<string>ตั้งค่า</string>
+	<key>Cameras</key>
+	<string>กล้อง</string>
+	<key>Camert Time</key>
+	<string>วันที่และเวลา</string>
+	<key>Cancel</key>
+	<string>ยกเลิก</string>
+	<key>Clear Cache</key>
+	<string>ล้างแคช</string>
+	<key>Command Failed</key>
+	<string>คำสั่งผิดผลาด</string>
+	<key>Confirm ?</key>
+	<string>ยอมรับ?</string>
+	<key>Connect Success</key>
+	<string>เชื่อมต่อสำเร็จ</string>
+	<key>Connect failed</key>
+	<string>เชื่อมต่อล้มเหลว</string>
+	<key>Connectting</key>
+	<string>กำลังเชื่อมต่อ</string>
+	<key>Continu</key>
+	<string>ทำต่อ</string>
+	<key>Delay</key>
+	<string>จับเวลา</string>
+	<key>Delete</key>
+	<string>ลบ</string>
+	<key>Delete Failed</key>
+	<string>ลบไม่สำเร็จ</string>
+	<key>Delete Success</key>
+	<string>ลบเรียบร้อย</string>
+	<key>DeleteConfirm</key>
+	<string>ลบ?</string>
+	<key>Deleteing</key>
+	<string>กำลังลบ</string>
+	<key>Does not support Preview</key>
+	<string>Live view ไม่รองรับ</string>
+	<key>Download</key>
+	<string>ดาวโหลด</string>
+	<key>Edit</key>
+	<string>แก้ไข</string>
+	<key>EquipManage</key>
+	<string>อุปกรณ์</string>
+	<key>Failed</key>
+	<string>ล้มเหลว</string>
+	<key>FailedToStart</key>
+	<string>1. คุณแน่ใจว่าได้เปิดไวไฟไว้;
+
+2. Make sure that your device connected to camera Wi-Fi;
+
+3. Make sure that other devices not connected to camera;
+
+4. If you still cant connect, reset your camera to factory settings.
+
+</string>
+	<key>FileManage</key>
+	<string>ไฟล์</string>
+	<key>Find Camera</key>
+	<string>ค้นหากล้อง</string>
+	<key>Fine</key>
+	<string>In</string>
+	<key>Finished</key>
+	<string>สำเร็จ</string>
+	<key>Format SDCard or not</key>
+	<string>ฟอร์แมต SD การ์ด?</string>
+	<key>FormatSDCard</key>
+	<string>กำลังฟอร์แมต SD การ์ด</string>
+	<key>Get Wifi Failed</key>
+	<string>Unable to get Wi-Fi information</string>
+	<key>เวอร์ชั่นอุปกรณ์</key>
+	<string>เฟริมแวร์เวอร์ชั่น</string>
+	<key>Home</key>
+	<string>โฮม</string>
+	<key>Loading</key>
+	<string>กำลังโหลด</string>
+	<key>LocalFile</key>
+	<string>ไฟล์ในเครื่อง</string>
+	<key>Manager</key>
+	<string>การจัดการ</string>
+	<key>Me</key>
+	<string>ฉัน</string>
+	<key>NetFail</key>
+	<string>ไม่สามารถเชื่อมต่อกล้อง, โปรดแน่ใจว่าได้เปิดไวไฟ</string>
+	<key>No File</key>
+	<string>ไม่มีไฟล์</string>
+	<key>No SDCard</key>
+	<string>ไม่มี SD การ์ด</string>
+	<key>No Select File</key>
+	<string>ไม่มีไฟล์ที่เลือก</string>
+	<key>No_Select</key>
+	<string>Nothing selected</string>
+	<key>Normal</key>
+	<string>Normal</string>
+	<key>Nothing</key>
+	<string>No files</string>
+	<key>Notice</key>
+	<string>Notice</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Photo</key>
+	<string>Photo</string>
+	<key>Photo Failed</key>
+	<string>Failed</string>
+	<key>Photo Start</key>
+	<string>Click to take photo</string>
+	<key>Photo Success</key>
+	<string>Photo successful</string>
+	<key>PhotoMode</key>
+	<string>Photo mode</string>
+	<key>Please Click To Get</key>
+	<string>Click to get</string>
+	<key>PleaseCloseTheCamera</key>
+	<string>Finish video process</string>
+	<key>PleaseStopPhoto</key>
+	<string>Finish photo process</string>
+	<key>Precise Quality Conting</key>
+	<string>Timelapse</string>
+	<key>Preview Switch</key>
+	<string>Live view</string>
+	<key>Preview is Closed</key>
+	<string>Live view disabled</string>
+	<key>Resolution not support Capture</key>
+	<string>Current mode does not support quick photo</string>
+	<key>Restart Camera ?</key>
+	<string>Reboot camera?</string>
+	<key>Restore Factory Or Not ?</key>
+	<string>Restore factory settings?</string>
+	<key>S.Fine</key>
+	<string>High</string>
+	<key>SD Card insert</key>
+	<string>Insert SD Card</string>
+	<key>SD Card remove</key>
+	<string>Remove SD Card</string>
+	<key>SDCard</key>
+	<string>SD Card</string>
+	<key>SDCardCapacity</key>
+	<string>SD Card</string>
+	<key>SDCardSpeed</key>
+	<string>SD Card speed</string>
+	<key>SDCardType</key>
+	<string>SD Card type</string>
+	<key>Same Time</key>
+	<string>Date sync</string>
+	<key>Save</key>
+	<string>Save</string>
+	<key>Saving</key>
+	<string>Saving</string>
+	<key>Setting</key>
+	<string>Settings</string>
+	<key>SettingFailed</key>
+	<string>Saving failed</string>
+	<key>SettingSuccess</key>
+	<string>Saved</string>
+	<key>Single</key>
+	<string>Photo</string>
+	<key>Software Version</key>
+	<string>App version</string>
+	<key>Speeding</key>
+	<string>Speeding</string>
+	<key>Square</key>
+	<string>Square</string>
+	<key>Success</key>
+	<string>Success</string>
+	<key>System Busy</key>
+	<string>System is busy</string>
+	<key>TFCardIsFull</key>
+	<string>SD Card is full</string>
+	<key>TakePhoto</key>
+	<string>Take photo</string>
+	<key>Taking Photo</key>
+	<string>Photo...</string>
+	<key>This resolution has no side stream video</key>
+	<string>Current resolution does not support live view</string>
+	<key>This resolution video no preview and side stream</key>
+	<string>Current resolution does not support live view</string>
+	<key>Time synchronous camera</key>
+	<string>Sync date and time?</string>
+	<key>TotalCapacity</key>
+	<string>Capacity</string>
+	<key>TryAgain</key>
+	<string>Try again</string>
+	<key>Version information</key>
+	<string>Version info</string>
+	<key>Vidoe</key>
+	<string>Video</string>
+	<key>VidoeMode</key>
+	<string>Video mode</string>
+	<key>Wifi Message</key>
+	<string>Wi-Fi settings</string>
+	<key>_8mmfilm</key>
+	<string>8mm film</string>
+	<key>alert_user_label</key>
+	<string>Tap screen twice to return to camera interface</string>
+	<key>all disable</key>
+	<string>Disable all</string>
+	<key>all enable</key>
+	<string>Enable all</string>
+	<key>auto_low_light</key>
+	<string>Auto low light</string>
+	<key>auto_power_off</key>
+	<string>Auto power off</string>
+	<key>average</key>
+	<string>Average</string>
+	<key>brightbeau</key>
+	<string>Stunning</string>
+	<key>burst quality</key>
+	<string>Burst shooting</string>
+	<key>burst_capture_number</key>
+	<string>Frames</string>
+	<key>buzzer_volume</key>
+	<string>Speaker volume</string>
+	<key>buzzer_volume_high</key>
+	<string>High</string>
+	<key>buzzer_volume_low</key>
+	<string>Low</string>
+	<key>buzzer_volume_mute</key>
+	<string>Disabled</string>
+	<key>caera_battery_level</key>
+	<string>Camera</string>
+	<key>camer_file_downloaded</key>
+	<string>Downloaded</string>
+	<key>camer_file_downloading</key>
+	<string>Downloading</string>
+	<key>camer_file_downloading_exit_or_not</key>
+	<string>Download will be canceled, continue?</string>
+	<key>camer_file_loading_not_delete</key>
+	<string>There are files that downloading. Click on pause.</string>
+	<key>camera_activity_mode_photograph</key>
+	<string>Photo</string>
+	<key>camera_activity_mode_quick_shot</key>
+	<string>Snapshot</string>
+	<key>camera_activity_mode_record</key>
+	<string>Video</string>
+	<key>camera_camera</key>
+	<string>Camera</string>
+	<key>camera_connect_alert_label</key>
+	<string>Click Wi-Fi button and wait LED to start blinking</string>
+	<key>camera_connect_back_button</key>
+	<string>Back</string>
+	<key>camera_connect_button</key>
+	<string>Connect camera</string>
+	<key>camera_connect_failed</key>
+	<string>Unable to connect</string>
+	<key>camera_connect_failed_again</key>
+	<string>Retry connection</string>
+	<key>camera_connect_failed_back_square</key>
+	<string>back?</string>
+	<key>camera_connect_failed_by_other</key>
+	<string>Camera connected to another device</string>
+	<key>camera_connect_failed_label_message</key>
+	<string>Try again when Wi-Fi LED will start blinking</string>
+	<key>camera_connect_failed_search</key>
+	<string>Unable to connect</string>
+	<key>camera_connect_head_label</key>
+	<string>Connecting to camera</string>
+	<key>camera_download_file_cancel_button</key>
+	<string>Cancel download</string>
+	<key>camera_enter_usb_storage</key>
+	<string>USB Storage mode</string>
+	<key>camera_error_file_limit</key>
+	<string>Exceeded file limit</string>
+	<key>camera_error_index_limit</key>
+	<string>Exceeded index limit</string>
+	<key>camera_error_no_more_save_space</key>
+	<string>No available space</string>
+	<key>camera_error_no_more_space</key>
+	<string>SD Card is full</string>
+	<key>camera_error_no_sd_card</key>
+	<string>No SD Card</string>
+	<key>camera_error_piv_error</key>
+	<string>Current resolution does not support quick shot</string>
+	<key>camera_error_save_error</key>
+	<string>Storage error</string>
+	<key>camera_error_sd_card_inserd</key>
+	<string>Insert SD Card</string>
+	<key>camera_error_sd_card_not_exit</key>
+	<string>No SD Card</string>
+	<key>camera_error_sd_card_not_support</key>
+	<string>4GB cards does not support</string>
+	<key>camera_error_sd_card_remove</key>
+	<string>Remove SD Card</string>
+	<key>camera_error_sd_hc</key>
+	<string>Low SD Card speed</string>
+	<key>camera_error_session</key>
+	<string>Session error</string>
+	<key>camera_error_system_busy</key>
+	<string>System is busy</string>
+	<key>camera_error_token</key>
+	<string>Token error</string>
+	<key>camera_error_unknow</key>
+	<string>Unknown error</string>
+	<key>camera_file_SDCard_remove</key>
+	<string>SD Card removed</string>
+	<key>camera_file_can_select</key>
+	<string>Photo select</string>
+	<key>camera_file_download</key>
+	<string>File downloaded</string>
+	<key>camera_file_download_add</key>
+	<string>Add to downloads</string>
+	<key>camera_file_download_error</key>
+	<string>Not enough space to download</string>
+	<key>camera_file_download_exit</key>
+	<string>Download</string>
+	<key>camera_file_get_file</key>
+	<string>Download file</string>
+	<key>camera_file_have_download_photo</key>
+	<string>Files downloaded</string>
+	<key>camera_file_no_photo</key>
+	<string>No photo</string>
+	<key>camera_file_no_video</key>
+	<string>No video</string>
+	<key>camera_file_not_delete</key>
+	<string>Cancel</string>
+	<key>camera_file_not_support_effect</key>
+	<string>Edit is not supported</string>
+	<key>camera_file_select_is_download</key>
+	<string>Selected files will be downloaded</string>
+	<key>camera_file_selected</key>
+	<string>Selected: %d</string>
+	<key>camera_file_selected_plural</key>
+	<string>Selected: %ld</string>
+	<key>camera_file_sure_delete</key>
+	<string>Delete</string>
+	<key>camera_file_system_space</key>
+	<string>Available %@，total %@</string>
+	<key>camera_file_video_cancel</key>
+	<string>Cancel</string>
+	<key>camera_file_video_delete_loading</key>
+	<string>Delete downloading video?</string>
+	<key>camera_file_video_formate</key>
+	<string>Video format</string>
+	<key>camera_file_video_high</key>
+	<string>HD</string>
+	<key>camera_file_video_middle</key>
+	<string>SD</string>
+	<key>camera_file_video_not_suport_play</key>
+	<string>This file does not support online playing</string>
+	<key>camera_firmware_upgrade</key>
+	<string>Firmware update</string>
+	<key>camera_main_caching</key>
+	<string>Buffering</string>
+	<key>camera_main_disconnect_no</key>
+	<string>Cancel</string>
+	<key>camera_main_disconnect_yes</key>
+	<string>Confirm</string>
+	<key>camera_main_not_exit_SD_card</key>
+	<string>No SD Card</string>
+	<key>camera_main_piv_complete</key>
+	<string>Successful record</string>
+	<key>camera_main_piv_failed</key>
+	<string>Record failed</string>
+	<key>camera_main_prompt</key>
+	<string>Notice</string>
+	<key>camera_main_set_model_defeat</key>
+	<string>Unable to set mode</string>
+	<key>camera_main_sure_disconnect_from_camera</key>
+	<string>Disconnect from camera?</string>
+	<key>camera_setting_alertlabel</key>
+	<string>Settings</string>
+	<key>camera_setting_alertmessage</key>
+	<string>Reboot camera after 3 beeps</string>
+	<key>camera_take_photo_burst</key>
+	<string>Burst shooting</string>
+	<key>camera_take_photo_normal</key>
+	<string>Normal</string>
+	<key>camera_take_photo_timeslape</key>
+	<string>Timelapse</string>
+	<key>camera_take_photo_timing</key>
+	<string>Timer</string>
+	<key>capture</key>
+	<string>Photo</string>
+	<key>capture_default_mode</key>
+	<string>Standard mode</string>
+	<key>capture_mode</key>
+	<string>Shooting mode</string>
+	<key>center</key>
+	<string>Frame center</string>
+	<key>cont_pic</key>
+	<string>Burst shooting</string>
+	<key>curvelevel</key>
+	<string>Beautiful</string>
+	<key>date</key>
+	<string>Date</string>
+	<key>date/time</key>
+	<string>Date/Time</string>
+	<key>date_and_time</key>
+	<string>Date/Time</string>
+	<key>deepquit</key>
+	<string>Black and white lines</string>
+	<key>documentary</key>
+	<string>Heartbeat</string>
+	<key>efect_not_support</key>
+	<string>Not supported</string>
+	<key>effect</key>
+	<string>Filter</string>
+	<key>effect_edit_back_button</key>
+	<string>Back</string>
+	<key>effect_edit_format_GIF</key>
+	<string>GIF format</string>
+	<key>effect_edit_format_MP4</key>
+	<string>MP4 format</string>
+	<key>effect_edit_format_choose</key>
+	<string>Format select</string>
+	<key>effect_edit_share_button</key>
+	<string>Share</string>
+	<key>effect_save_file_error</key>
+	<string>Unable to get album access</string>
+	<key>effect_save_file_error_cancel</key>
+	<string>Info</string>
+	<key>effect_save_file_error_message</key>
+	<string>Go to Settings - Privacy</string>
+	<key>effect_shareVieo</key>
+	<string>Video share not available</string>
+	<key>effect_video_load_again</key>
+	<string>Reload picture</string>
+	<key>faq_battery</key>
+	<string>Battery</string>
+	<key>faq_camera</key>
+	<string>Camera</string>
+	<key>faq_connection</key>
+	<string>Connection</string>
+	<key>faq_logoImage</key>
+	<string>ywc_logo</string>
+	<key>faq_on_off</key>
+	<string>Power</string>
+	<key>faq_others</key>
+	<string>Other</string>
+	<key>faq_sdCard</key>
+	<string>SD Card</string>
+	<key>faq_takingPhotos</key>
+	<string>Video</string>
+	<key>feedback_cancel</key>
+	<string>Cancel</string>
+	<key>feedback_confirm</key>
+	<string>OK</string>
+	<key>feedback_contactWay</key>
+	<string>Sender:</string>
+	<key>feedback_contactWayDetail</key>
+	<string>QQ/email/phone</string>
+	<key>feedback_fail</key>
+	<string>Connection error</string>
+	<key>feedback_failForOtherReasons</key>
+	<string>Unable to send, possible duplicate</string>
+	<key>feedback_feedbackContent</key>
+	<string>Content:</string>
+	<key>feedback_feedbackContentDetail</key>
+	<string>Add your comment</string>
+	<key>feedback_submit</key>
+	<string>Send</string>
+	<key>feedback_submitSuccess</key>
+	<string>Sent</string>
+	<key>feedback_thanks</key>
+	<string>Thank you for your feedback!</string>
+	<key>file_deleted_loading</key>
+	<string>Downloaded canceled</string>
+	<key>file_saving</key>
+	<string>Saved in</string>
+	<key>firm_alreadyNewest</key>
+	<string>Installed latest firmware</string>
+	<key>firm_connecting</key>
+	<string>Firmware downloading...</string>
+	<key>firm_continueDownload</key>
+	<string>Download</string>
+	<key>firm_diary</key>
+	<string>Update log</string>
+	<key>firm_downloading</key>
+	<string>Downloading</string>
+	<key>firm_error_cardNotExist</key>
+	<string>No SD Card</string>
+	<key>firm_error_invalidParam</key>
+	<string>Invalid parameter</string>
+	<key>firm_error_invalidPath</key>
+	<string>Requested file does not exist</string>
+	<key>firm_error_title</key>
+	<string>Firmware update error</string>
+	<key>firm_error_unknownError</key>
+	<string>Unknown error</string>
+	<key>firm_finishDownload</key>
+	<string>Firmware downloaded</string>
+	<key>firm_finishDownloadShort</key>
+	<string>Download finished</string>
+	<key>firm_finishDownloading</key>
+	<string>Download finished, connect camera</string>
+	<key>firm_lowBattery</key>
+	<string>Current battery charge is too low for firmware upgrading, charge your camera</string>
+	<key>firm_lower107AndDownload</key>
+	<string>Firmware version is too low, please update. After connecting to network, app will download latest firmware. You can also go to Yi Camera - Settings - Firmware update.</string>
+	<key>firm_lower107AndUpdate</key>
+	<string>Downloaded firmware version is lower than 1.0.7, updating can damage your camera.</string>
+	<key>firm_mistake</key>
+	<string>Update error</string>
+	<key>firm_newFirmToDownload</key>
+	<string>New firmware available, connect you active network to download it.</string>
+	<key>firm_newFirmToUpdate</key>
+	<string>New firmware available. Update?</string>
+	<key>firm_notDownload</key>
+	<string>Cancel</string>
+	<key>firm_notUpdateNow</key>
+	<string>Ignore update now</string>
+	<key>firm_not_connected_camera</key>
+	<string>Camera have not been connected yet</string>
+	<key>firm_not_supported</key>
+	<string>Updating does not support</string>
+	<key>firm_prompt</key>
+	<string>Notice</string>
+	<key>firm_putFileFail</key>
+	<string>Unable to upload firmware</string>
+	<key>firm_putFileFailToDo</key>
+	<string>Reboot camera and try again</string>
+	<key>firm_quit</key>
+	<string>Firmware process, wait...</string>
+	<key>firm_startUpdate</key>
+	<string>Upload firmware to camera</string>
+	<key>firm_start_fw_update</key>
+	<string>Update firmware</string>
+	<key>firm_success_message</key>
+	<string>Firmware uploaded to camera. Camera will disconnect and start updating process that will have continuous beeping sound. Wait till camera turns off.</string>
+	<key>firm_success_title</key>
+	<string>Updated successfully</string>
+	<key>firm_sure</key>
+	<string>Confirm</string>
+	<key>firm_unsupported</key>
+	<string>Camera firmware update</string>
+	<key>firm_updateFirmwareFail</key>
+	<string>Unable to update firmware</string>
+	<key>firm_updateNow</key>
+	<string>Update</string>
+	<key>firm_updating</key>
+	<string>Firmware uploading to camera...</string>
+	<key>firm_warning</key>
+	<string>Warning</string>
+	<key>firm_wifiWillDownload</key>
+	<string>Downloading will start after Wi-Fi is connected</string>
+	<key>firm_willUpdateIn5s</key>
+	<string>Camera will start updating process in 5 seconds</string>
+	<key>firm_wrongMD5</key>
+	<string>MD5 check error, re-download file</string>
+	<key>firm_wwan</key>
+	<string>Not connected to Wi-Fi network, carrier network will be used. Continue?</string>
+	<key>firmware_download_failed</key>
+	<string>Firmware download failed!</string>
+	<key>firmware_upgrade_download_firmware</key>
+	<string>Firmware download...</string>
+	<key>firmware_upgrade_switch_wifi</key>
+	<string>Turning Wi-Fi on...</string>
+	<key>firmware_upgrade_tip</key>
+	<string>Firmware updating, do not turn camera or Wi-Fi off!</string>
+	<key>format_SD_error</key>
+	<string>SD Card error</string>
+	<key>generate_GIF</key>
+	<string>GIF</string>
+	<key>generate_MP4</key>
+	<string>MP4</string>
+	<key>high</key>
+	<string>High</string>
+	<key>keep_cont_pic</key>
+	<string>Burst mode</string>
+	<key>led_all_disable</key>
+	<string>Disable all</string>
+	<key>led_all_enable</key>
+	<string>Enable all</string>
+	<key>led_mode</key>
+	<string>LED Mode</string>
+	<key>led_status_enable</key>
+	<string>Only status LED</string>
+	<key>loop_record</key>
+	<string>Loop Record</string>
+	<key>low</key>
+	<string>Low</string>
+	<key>meter_average</key>
+	<string>Average</string>
+	<key>meter_center</key>
+	<string>Frame center</string>
+	<key>meter_manual</key>
+	<string>Manual</string>
+	<key>meter_mode</key>
+	<string>Metering</string>
+	<key>meter_spot</key>
+	<string>Spot</string>
+	<key>mute</key>
+	<string>Disabled</string>
+	<key>new_video</key>
+	<string>New video</string>
+	<key>no preview</key>
+	<string>No live view</string>
+	<key>no_new_firmware_version</key>
+	<string>Using latest firmware</string>
+	<key>no_new_version</key>
+	<string>No new version found</string>
+	<key>nomal_pic</key>
+	<string>Standard</string>
+	<key>none</key>
+	<string>Unknown type</string>
+	<key>not_support_automatic_low_light</key>
+	<string>Auto low light is not supported</string>
+	<key>off</key>
+	<string>Disabled</string>
+	<key>on</key>
+	<string>Enabled</string>
+	<key>original</key>
+	<string>No</string>
+	<key>phone_battery_level</key>
+	<string>Phone</string>
+	<key>photo_button_cancel</key>
+	<string>Cancel</string>
+	<key>photo_choose_count</key>
+	<string>Selected: 1</string>
+	<key>photo_edit_delete_label</key>
+	<string>Delete</string>
+	<key>photo_edit_download_label</key>
+	<string>Download</string>
+	<key>photo_edit_edit_label</key>
+	<string>Edit</string>
+	<key>photo_size</key>
+	<string>Resolution</string>
+	<key>photo_stamp</key>
+	<string>Time stamp</string>
+	<key>pic_second</key>
+	<string>every second</string>
+	<key>pic_two_second</key>
+	<string>every 2 second</string>
+	<key>please_select_wifi</key>
+	<string>Choose Wi-Fi</string>
+	<key>precise quality</key>
+	<string>Normal photoОбычное фото</string>
+	<key>precise quality cont.</key>
+	<string>Timelapse</string>
+	<key>precise self quality</key>
+	<string>Timer</string>
+	<key>precise_cont_time</key>
+	<string>Timelapse interval</string>
+	<key>record</key>
+	<string>Video</string>
+	<key>refresh_FooterPullToRefresh</key>
+	<string>Pull to refresh</string>
+	<key>refresh_FooterRefreshing</key>
+	<string>Refreshing...</string>
+	<key>refresh_FooterReleaseToRefresh</key>
+	<string>Release to refresh</string>
+	<key>refresh_HeaderPullToRefresh</key>
+	<string>Pull to refresh</string>
+	<key>refresh_HeaderRefreshing</key>
+	<string>Refreshing...</string>
+	<key>refresh_HeaderReleaseToRefresh</key>
+	<string>Release to refresh</string>
+	<key>restore_factory_settings</key>
+	<string>Restore factory settings</string>
+	<key>retro</key>
+	<string>Retro</string>
+	<key>save_cannot_get</key>
+	<string>No album access</string>
+	<key>save_image_fail</key>
+	<string>Album saving failed</string>
+	<key>save_image_notExist</key>
+	<string>Photo do not exist</string>
+	<key>save_image_success</key>
+	<string>Saved to album</string>
+	<key>save_saveBtn</key>
+	<string>Save</string>
+	<key>save_toPhotoAlbum</key>
+	<string>Saved to photo album</string>
+	<key>sd_error</key>
+	<string>No card</string>
+	<key>sd_hc</key>
+	<string>SDHC Card</string>
+	<key>sd_xc</key>
+	<string>SDXC Card</string>
+	<key>sdcard_size</key>
+	<string>Available %@/Total %@</string>
+	<key>sdcard_size_available</key>
+	<string>Available</string>
+	<key>sdcard_size_total</key>
+	<string>Total</string>
+	<key>second</key>
+	<string>sec.</string>
+	<key>sepia</key>
+	<string>Sepia</string>
+	<key>serial_number</key>
+	<string>Serial number</string>
+	<key>set_off</key>
+	<string>Off</string>
+	<key>set_on</key>
+	<string>On</string>
+	<key>setting_auto_low_light</key>
+	<string>Auto low light</string>
+	<key>setting_auto_power_off</key>
+	<string>Auto power off</string>
+	<key>setting_av_output</key>
+	<string>AV output</string>
+	<key>setting_buzzer_ring</key>
+	<string>Find camera</string>
+	<key>setting_buzzer_volume</key>
+	<string>Speaker volume</string>
+	<key>setting_camera</key>
+	<string>Camera</string>
+	<key>setting_camera_clock</key>
+	<string>Time</string>
+	<key>setting_capture_default_mode</key>
+	<string>Standard photo mode</string>
+	<key>setting_device</key>
+	<string>Device</string>
+	<key>setting_failed</key>
+	<string>Update setting failed</string>
+	<key>setting_hw_version</key>
+	<string>Model</string>
+	<key>setting_led_mode</key>
+	<string>LED mode</string>
+	<key>setting_loop_record</key>
+	<string>Loop record</string>
+	<key>setting_meter_mode</key>
+	<string>Metering mode</string>
+	<key>setting_photo</key>
+	<string>Photo</string>
+	<key>setting_photo_size</key>
+	<string>Resolution</string>
+	<key>setting_photo_stamp</key>
+	<string>Time stamp</string>
+	<key>setting_preview_status</key>
+	<string>Live view</string>
+	<key>setting_restore_factory_settings</key>
+	<string>Restore factory settings</string>
+	<key>setting_sdcard</key>
+	<string>SD Card</string>
+	<key>setting_serial_number</key>
+	<string>Serial number</string>
+	<key>setting_start_wifi_while_booted</key>
+	<string>Wi-Fi on boot</string>
+	<key>setting_sw_version</key>
+	<string>Firmware version</string>
+	<key>setting_system_default_mode</key>
+	<string>Standard camera mode</string>
+	<key>setting_unsupported_resolution</key>
+	<string>Current resolution does not support auto low light setting</string>
+	<key>setting_video</key>
+	<string>Video</string>
+	<key>setting_video_quality</key>
+	<string>Quality</string>
+	<key>setting_video_resolution</key>
+	<string>Resolution</string>
+	<key>setting_video_standard</key>
+	<string>Standard</string>
+	<key>setting_video_time_stamp</key>
+	<string>Time stamp</string>
+	<key>setting_warp_enable</key>
+	<string>Warp correction</string>
+	<key>setting_wifi</key>
+	<string>Wi-Fi settings</string>
+	<key>share_fail</key>
+	<string>Share failed</string>
+	<key>share_fail_code</key>
+	<string>Error code</string>
+	<key>share_fail_desc</key>
+	<string>Error info</string>
+	<key>share_iWantToShare</key>
+	<string>I want to share an interesting video</string>
+	<key>share_local_video</key>
+	<string>Local video share is not supported</string>
+	<key>share_myShare</key>
+	<string>My shared video</string>
+	<key>share_opening</key>
+	<string>Ready to share, opening app</string>
+	<key>share_success</key>
+	<string>Shared successfully</string>
+	<key>should_connect_to_outside_wifi</key>
+	<string>To download the firmware you must connect to Wi-Fi network.Disconnect from camera?</string>
+	<key>single_pic</key>
+	<string>Normal</string>
+	<key>slot_error</key>
+	<string>System error</string>
+	<key>sns_accomplish</key>
+	<string>Finished</string>
+	<key>sns_alert_3g_network</key>
+	<string>You are using carrier network that will consume money depending on your tariff</string>
+	<key>sns_alert_tapped_again</key>
+	<string>Already clicked ～～</string>
+	<key>sns_already_download</key>
+	<string>Available in download list</string>
+	<key>sns_app_edition</key>
+	<string>App version</string>
+	<key>sns_attention</key>
+	<string>Attention: This step is important</string>
+	<key>sns_button_confirm</key>
+	<string>Confirm</string>
+	<key>sns_buy</key>
+	<string>Buy</string>
+	<key>sns_camera_firmware_renew</key>
+	<string>xiaoyiGuJian%@.bin</string>
+	<key>sns_can_not_link_server</key>
+	<string>Firmware host is not available, try again later</string>
+	<key>sns_cancel</key>
+	<string>Cancel</string>
+	<key>sns_checkUpdates</key>
+	<string>Check update</string>
+	<key>sns_check_firmware_renew_file</key>
+	<string>Firmware file check</string>
+	<key>sns_classify</key>
+	<string>Classify</string>
+	<key>sns_confirm</key>
+	<string>Confirm</string>
+	<key>sns_content_of_share</key>
+	<string>Share</string>
+	<key>sns_content_personal</key>
+	<string>My files</string>
+	<key>sns_detail_one</key>
+	<string>Click Power button to see LED</string>
+	<key>sns_detail_three</key>
+	<string>Open Wi-Fi settings and connect to YDXJ network</string>
+	<key>sns_detail_two</key>
+	<string>Click button, the LED will activate and start blinking</string>
+	<key>sns_download_again</key>
+	<string>Download again</string>
+	<key>sns_download_alert_message</key>
+	<string>Carrier network is used, money will be consumed depending on your tariff</string>
+	<key>sns_download_cancel</key>
+	<string>Cancel</string>
+	<key>sns_download_finish_not_save</key>
+	<string>File downloaded but can not be saved</string>
+	<key>sns_download_firmware_renew</key>
+	<string>Download</string>
+	<key>sns_download_firmware_renew_again</key>
+	<string>File corrupted, try to download it again</string>
+	<key>sns_download_go_on</key>
+	<string>Continue</string>
+	<key>sns_download_management</key>
+	<string>Download manager</string>
+	<key>sns_download_progress</key>
+	<string>Downloaded %@</string>
+	<key>sns_download_successed_connect_camera</key>
+	<string>Download finished, connect to camera to firmware update</string>
+	<key>sns_download_to_background</key>
+	<string>Background download</string>
+	<key>sns_edition_is_new</key>
+	<string>Using latest version</string>
+	<key>sns_error_get_user_info</key>
+	<string>Unable to get user info</string>
+	<key>sns_exit_connect_camera</key>
+	<string>Firmware file is ready, connect to camera to firmware update</string>
+	<key>sns_exit_firmware_renew_file</key>
+	<string>Firmware file check...</string>
+	<key>sns_failed_create_video_file</key>
+	<string>Failed to create video file or folder</string>
+	<key>sns_failed_download_again</key>
+	<string>Download failed, try again</string>
+	<key>sns_failed_download_pic</key>
+	<string>Failed to download photo</string>
+	<key>sns_failed_network_is_bad</key>
+	<string>Failed to update, check your network</string>
+	<key>sns_file_all_video</key>
+	<string> All video</string>
+	<key>sns_firmware_edition</key>
+	<string>Firmware version</string>
+	<key>sns_firmware_no_md5</key>
+	<string>MD5 info is not available, download again</string>
+	<key>sns_have_new_edition</key>
+	<string>New version available</string>
+	<key>sns_header_one</key>
+	<string>Turn camera on</string>
+	<key>sns_header_three</key>
+	<string>Connect to phone</string>
+	<key>sns_header_two</key>
+	<string>Turn Wi-Fi on</string>
+	<key>sns_home_found</key>
+	<string>Home</string>
+	<key>sns_home_my</key>
+	<string>Profile</string>
+	<key>sns_hot_photo</key>
+	<string>Popular</string>
+	<key>sns_keep_live_download</key>
+	<string>Download, do not exit</string>
+	<key>sns_link_network_try_again</key>
+	<string>Check you network connection</string>
+	<key>sns_loading</key>
+	<string>Loading</string>
+	<key>sns_login_button</key>
+	<string>Click to login</string>
+	<key>sns_more</key>
+	<string>More</string>
+	<key>sns_network_can_not_used</key>
+	<string>Network unavailable</string>
+	<key>sns_network_error</key>
+	<string>Unable to connect to network</string>
+	<key>sns_next</key>
+	<string>Next</string>
+	<key>sns_noDownloading</key>
+	<string>Video download did not started</string>
+	<key>sns_no_network</key>
+	<string>No network</string>
+	<key>sns_normal_questions</key>
+	<string>F.A.Q</string>
+	<key>sns_not_login</key>
+	<string>Not logged in</string>
+	<key>sns_nothing_in_server</key>
+	<string>Nothing on server</string>
+	<key>sns_phone_pic</key>
+	<string>ywc_iphone</string>
+	<key>sns_recommend</key>
+	<string>Recommend</string>
+	<key>sns_send_message_failed</key>
+	<string>Network unavailable</string>
+	<key>sns_set</key>
+	<string>Set</string>
+	<key>sns_setting</key>
+	<string>Settings</string>
+	<key>sns_setting_about</key>
+	<string>Information</string>
+	<key>sns_setting_feedback</key>
+	<string>Feedback</string>
+	<key>sns_squaree_title</key>
+	<string>Home</string>
+	<key>sns_success</key>
+	<string>Success</string>
+	<key>sns_take_care</key>
+	<string>Attention</string>
+	<key>sns_test</key>
+	<string>Test</string>
+	<key>sns_test_message</key>
+	<string>Test message</string>
+	<key>sns_todo_download_firmware_renew</key>
+	<string>Download firmware please</string>
+	<key>sns_try_again</key>
+	<string>Try again</string>
+	<key>sns_unknow</key>
+	<string>Oh, dont know from where to download...</string>
+	<key>sns_unknow_network_link</key>
+	<string>Unknown network state</string>
+	<key>sns_user_use_lead</key>
+	<string>Instruction</string>
+	<key>sns_video_download_file</key>
+	<string>You do not have any downloaded video, get one now ~~~~</string>
+	<key>sns_video_dwonload_file_iOS8</key>
+	<string>You do not have any downloaded video, get one now ~~~~</string>
+	<key>sns_video_file_exit</key>
+	<string>Video already exist</string>
+	<key>sns_video_mine</key>
+	<string>My video</string>
+	<key>sns_video_play_alert</key>
+	<string>Loading...</string>
+	<key>sns_watch_finish_download_video</key>
+	<string>View downloaded video</string>
+	<key>spot</key>
+	<string>Spot</string>
+	<key>start_video_record</key>
+	<string>Start record</string>
+	<key>start_wifi_while_booted</key>
+	<string>Wi-Fi on boot</string>
+	<key>status enable</key>
+	<string>Only status LED</string>
+	<key>status_error</key>
+	<string>SD Card error</string>
+	<key>stdDefVideo</key>
+	<string>No live view</string>
+	<key>sure_to_cancel_firmware_upgrade</key>
+	<string>Cancel firmware update?</string>
+	<key>template</key>
+	<string>Template</string>
+	<key>time</key>
+	<string>Time</string>
+	<key>time_lapes_photo</key>
+	<string>Timelapse</string>
+	<key>time_lapse_pic</key>
+	<string>Timelapse</string>
+	<key>tvDownLoad</key>
+	<string>Downloads</string>
+	<key>tvPhoto</key>
+	<string>Photo</string>
+	<key>tvPhotographMode</key>
+	<string>Photo</string>
+	<key>tvQuickShotMode</key>
+	<string>Snapshot</string>
+	<key>tvRecordMode</key>
+	<string>Video</string>
+	<key>tvVideo</key>
+	<string>Video</string>
+	<key>tvVideoSetting</key>
+	<string>Video settings</string>
+	<key>tv_burst</key>
+	<string>Burst mode</string>
+	<key>tv_normal</key>
+	<string>Normal</string>
+	<key>tv_timelapes</key>
+	<string>Timelapse</string>
+	<key>tv_timer</key>
+	<string>Timer</string>
+	<key>usb_storage_enable</key>
+	<string>USB mode</string>
+	<key>video_filter</key>
+	<string>Filter</string>
+	<key>video_format</key>
+	<string>MP4</string>
+	<key>video_musicbg</key>
+	<string>Music</string>
+	<key>video_output_dev_type</key>
+	<string>Video output type</string>
+	<key>video_quality</key>
+	<string>Quality</string>
+	<key>video_ratio</key>
+	<string>4:3</string>
+	<key>video_record_complete</key>
+	<string>Finish record</string>
+	<key>video_resolution</key>
+	<string>Resolution</string>
+	<key>video_stamp</key>
+	<string>Time stamp</string>
+	<key>video_standard</key>
+	<string>Standard</string>
+	<key>videoquality_fine</key>
+	<string>Normal</string>
+	<key>videoquality_normal</key>
+	<string>Low</string>
+	<key>videoquality_superfine</key>
+	<string>High</string>
+	<key>warp_enable</key>
+	<string>Warp correction</string>
+	<key>wifi_alert_enter_right_name</key>
+	<string>Name should consist of 1-32 letters or numbers</string>
+	<key>wifi_alert_enter_right_password</key>
+	<string>Password should consist of 8-64 letters or numbers</string>
+	<key>wifi_alert_nothing_change</key>
+	<string>No changes</string>
+	<key>wifi_alert_restart_wifi</key>
+	<string>To change Wi-Fi info, camera reboot is required. Continue?</string>
+	<key>wifi_camera_state_message</key>
+	<string>Camera in video record mode and can not save settings</string>
+	<key>wifi_content_alter_success</key>
+	<string>Wi-Fi settings saved, reconnect camera!</string>
+	<key>wifi_name_label</key>
+	<string>Wi-Fi name: </string>
+	<key>wifi_name_placeholder</key>
+	<string>SSID</string>
+	<key>wifi_password_hint</key>
+	<string>Password hint</string>
+	<key>wifi_password_lalbel</key>
+	<string>Wi-Fi password: </string>
+	<key>wifi_password_placeholder</key>
+	<string>Enter new password</string>
+	<key>wifi_password_show_label</key>
+	<string>Show password</string>
+	<key>wrap_enable</key>
+	<string>Warp correction</string>
+</dict>
+</plist>
