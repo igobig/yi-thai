@@ -199,7 +199,7 @@
 	<key>TryAgain</key>
 	<string>ลองอีกครั้ง</string>
 	<key>Version information</key>
-	<string>ข้อมูลเวอร์ชั่น</string>
+	<string>ข้อมูลเวอร์ชั่น MIUI ไทยแลนด์</string>
 	<key>Vidoe</key>
 	<string>วิดีโอ</string>
 	<key>VidoeMode</key>
@@ -375,7 +375,7 @@
 	<key>camera_main_sure_disconnect_from_camera</key>
 	<string>Disconnect from camera?</string>
 	<key>camera_setting_alertlabel</key>
-	<string>Settings</string>
+	<string>ตั้งค่า</string>
 	<key>camera_setting_alertmessage</key>
 	<string>Reboot camera after 3 beeps</string>
 	<key>camera_take_photo_burst</key>
@@ -427,7 +427,7 @@
 	<key>effect_save_file_error_cancel</key>
 	<string>Info</string>
 	<key>effect_save_file_error_message</key>
-	<string>Go to Settings - Privacy</string>
+	<string>ไปที่ ตั้งค่า - ความเป็นส่วนตัว</string>
 	<key>effect_shareVieo</key>
 	<string>Video share not available</string>
 	<key>effect_video_load_again</key>
@@ -663,9 +663,9 @@
 	<key>refresh_HeaderReleaseToRefresh</key>
 	<string>Release to refresh</string>
 	<key>restore_factory_settings</key>
-	<string>Restore factory settings</string>
+	<string>เรียกคืนการตั้งค่าโรงงาน</string>
 	<key>retro</key>
-	<string>Retro</string>
+	<string>ย้อนยุค</string>
 	<key>save_cannot_get</key>
 	<string>No album access</string>
 	<key>save_image_fail</key>
@@ -763,7 +763,7 @@
 	<key>setting_warp_enable</key>
 	<string>Warp correction</string>
 	<key>setting_wifi</key>
-	<string>Wi-Fi settings</string>
+	<string>ตั้งค่า Wi-Fi</string>
 	<key>share_fail</key>
 	<string>Share failed</string>
 	<key>share_fail_code</key>
@@ -795,7 +795,7 @@
 	<key>sns_already_download</key>
 	<string>Available in download list</string>
 	<key>sns_app_edition</key>
-	<string>แอปเวอร์ชั่น</string>
+	<string>MIUI ไทยแลนด์</string>
 	<key>sns_attention</key>
 	<string>โปรดทราบ: ขั้นตอนนี้เป็นสิ่งที่สำคัญ</string>
 	<key>sns_button_confirm</key>
@@ -899,13 +899,13 @@
 	<key>sns_network_error</key>
 	<string>Unable to connect to network</string>
 	<key>sns_next</key>
-	<string>Next</string>
+	<string>ถัดไป</string>
 	<key>sns_noDownloading</key>
 	<string>Video download did not started</string>
 	<key>sns_no_network</key>
 	<string>No network</string>
 	<key>sns_normal_questions</key>
-	<string>F.A.Q</string>
+	<string>คำถามที่พบได้บ่อย</string>
 	<key>sns_not_login</key>
 	<string>Not logged in</string>
 	<key>sns_nothing_in_server</key>
@@ -919,11 +919,11 @@
 	<key>sns_set</key>
 	<string>Set</string>
 	<key>sns_setting</key>
-	<string>Settings</string>
+	<string>ตั้งค่า</string>
 	<key>sns_setting_about</key>
 	<string>Information</string>
 	<key>sns_setting_feedback</key>
-	<string>Feedback</string>
+	<string>ข้อเสนอแนะ</string>
 	<key>sns_squaree_title</key>
 	<string>Home</string>
 	<key>sns_success</key>
@@ -931,79 +931,79 @@
 	<key>sns_take_care</key>
 	<string>Attention</string>
 	<key>sns_test</key>
-	<string>Test</string>
+	<string>ทดสอบ</string>
 	<key>sns_test_message</key>
 	<string>Test message</string>
 	<key>sns_todo_download_firmware_renew</key>
 	<string>Download firmware please</string>
 	<key>sns_try_again</key>
-	<string>Try again</string>
+	<string>ลองอีกครั้ง</string>
 	<key>sns_unknow</key>
-	<string>Oh, dont know from where to download...</string>
+	<string>โอ้พระเจ้า,เราไม่ทราบข้อมูลที่โหลด...</string>
 	<key>sns_unknow_network_link</key>
-	<string>Unknown network state</string>
+	<string>เครือข่ายที่ไม่รู้จัก</string>
 	<key>sns_user_use_lead</key>
-	<string>Instruction</string>
+	<string>การใช้งาน</string>
 	<key>sns_video_download_file</key>
-	<string>You do not have any downloaded video, get one now ~~~~</string>
+	<string>คุณไม่จำเป็นต้องดาวน์โหลดวิดีโอใด ๆ, เพราะมีแล้วในขณะนี้ ~~~~</string>
 	<key>sns_video_dwonload_file_iOS8</key>
-	<string>You do not have any downloaded video, get one now ~~~~</string>
+	<string>คุณไม่จำเป็นต้องดาวน์โหลดวิดีโอใด ๆ, เพราะมีแล้วในขณะนี้ ~~~~</string>
 	<key>sns_video_file_exit</key>
-	<string>Video already exist</string>
+	<string>วิดีโอที่มีอยู่แล้ว</string>
 	<key>sns_video_mine</key>
-	<string>My video</string>
+	<string>วิดีโอของฉัน</string>
 	<key>sns_video_play_alert</key>
-	<string>Loading...</string>
+	<string>กำลังโหลด...</string>
 	<key>sns_watch_finish_download_video</key>
-	<string>View downloaded video</string>
+	<string>ดูวิดีโอที่ดาวโหลดแล้ว</string>
 	<key>spot</key>
-	<string>Spot</string>
+	<string>จุด</string>
 	<key>start_video_record</key>
-	<string>Start record</string>
+	<string>เริ่มบันทึก</string>
 	<key>start_wifi_while_booted</key>
 	<string>Wi-Fi on boot</string>
 	<key>status enable</key>
 	<string>Only status LED</string>
 	<key>status_error</key>
-	<string>SD Card error</string>
+	<string>SD การ์ด ผิดผลาด</string>
 	<key>stdDefVideo</key>
-	<string>No live view</string>
+	<string>ไม่โชว์ภาพ</string>
 	<key>sure_to_cancel_firmware_upgrade</key>
-	<string>Cancel firmware update?</string>
+	<string>ยกเลิกอัปเดตเฟริมแวร์?</string>
 	<key>template</key>
-	<string>Template</string>
+	<string>แม่แบบ</string>
 	<key>time</key>
-	<string>Time</string>
+	<string>เวลา</string>
 	<key>time_lapes_photo</key>
-	<string>Timelapse</string>
+	<string>เวลาล่วงหน้า</string>
 	<key>time_lapse_pic</key>
-	<string>Timelapse</string>
+	<string>เวลาล่วงหน้า</string>
 	<key>tvDownLoad</key>
-	<string>Downloads</string>
+	<string>ดาวโหลด</string>
 	<key>tvPhoto</key>
-	<string>Photo</string>
+	<string>รูปภาพ</string>
 	<key>tvPhotographMode</key>
 	<string>รูปภาพ</string>
 	<key>tvQuickShotMode</key>
-	<string>Snapshot</string>
+	<string>ภาพเคลื่อนไหว</string>
 	<key>tvRecordMode</key>
-	<string>Video</string>
+	<string>วิดีโอ</string>
 	<key>tvVideo</key>
-	<string>Video</string>
+	<string>วิดีโอ</string>
 	<key>tvVideoSetting</key>
-	<string>Video settings</string>
+	<string>ตั้งค่า วิดีโอ</string>
 	<key>tv_burst</key>
-	<string>Burst mode</string>
+	<string>โหมดถ่ายต่อเนื่อง</string>
 	<key>tv_normal</key>
 	<string>ปกติ</string>
 	<key>tv_timelapes</key>
-	<string>Timelapse</string>
+	<string>เวลาล่วงหน้า</string>
 	<key>tv_timer</key>
-	<string>Timer</string>
+	<string>จับเวลา</string>
 	<key>usb_storage_enable</key>
 	<string>โหมด USB</string>
 	<key>video_filter</key>
-	<string>Filter</string>
+	<string>ตัวกรอง</string>
 	<key>video_format</key>
 	<string>MP4</string>
 	<key>video_musicbg</key>
@@ -1015,7 +1015,7 @@
 	<key>video_ratio</key>
 	<string>4:3</string>
 	<key>video_record_complete</key>
-	<string>Finish record</string>
+	<string>ถ่ายวิดีโอเสร็จสิ้น</string>
 	<key>video_resolution</key>
 	<string>ความละเอียด</string>
 	<key>video_stamp</key>
@@ -1035,13 +1035,13 @@
 	<key>wifi_alert_enter_right_password</key>
 	<string>Password should consist of 8-64 letters or numbers</string>
 	<key>wifi_alert_nothing_change</key>
-	<string>No changes</string>
+	<string>ไม่มีการเปลี่ยนแปลง</string>
 	<key>wifi_alert_restart_wifi</key>
 	<string>To change Wi-Fi info, camera reboot is required. Continue?</string>
 	<key>wifi_camera_state_message</key>
-	<string>Camera in video record mode and can not save settings</string>
+	<string>กล้องในโหมดบันทึกวิดีโอและไม่สามารถบันทึกการตั้งค่า</string>
 	<key>wifi_content_alter_success</key>
-	<string>Wi-Fi settings saved, reconnect camera!</string>
+	<string>บันทึก Wi-Fi ที่ตั้งค่า ้เชื่อมต่อกล้องอีกครั้ง!</string>
 	<key>wifi_name_label</key>
 	<string>ชื่อ Wi-Fi: </string>
 	<key>wifi_name_placeholder</key>
