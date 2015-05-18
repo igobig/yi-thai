@@ -11,7 +11,7 @@
 	<key>Back</key>
 	<string>ย้อนหลับ</string>
 	<key>Burst Quality photoing</key>
-	<string>Burst mode</string>
+	<string>โหมดถ่ายภาพต่อเนื่อง</string>
 	<key>Camera</key>
 	<string>รูปภาพ</string>
 	<key>Camera Recording</key>
@@ -65,11 +65,13 @@
 	<key>FailedToStart</key>
 	<string>1. คุณแน่ใจว่าได้เปิดไวไฟไว้;
 
-2. Make sure that your device connected to camera Wi-Fi;
+2. ตรวจสอบให้แน่ใจว่าอุปกรณ์ของคุณเชื่อมต่อกับกล้อง Wi-Fi;
 
-3. Make sure that other devices not connected to camera;
+3. ตรวจสอบให้แน่ใจว่าอุปกรณ์อื่น ๆ ไม่ได้เชื่อมต่อกับกล้อง;
 
-4. If you still cant connect, reset your camera to factory settings.
+4. หากคุณยังไม่สามารถเชื่อมต่อได้ โปรดตั้งค่ากล้องของคุณเพื่อตั้งโรงงาน;
+
+ภาษาไทยโดย MIUI ไทยแลนด์
 
 </string>
 	<key>FileManage</key>
@@ -86,8 +88,6 @@
 	<string>กำลังฟอร์แมต SD การ์ด</string>
 	<key>Get Wifi Failed</key>
 	<string>Unable to get Wi-Fi information</string>
-	<key>เวอร์ชั่นอุปกรณ์</key>
-	<string>เฟริมแวร์เวอร์ชั่น</string>
 	<key>Home</key>
 	<string>โฮม</string>
 	<key>Loading</key>
@@ -109,15 +109,15 @@
 	<key>No_Select</key>
 	<string>Nothing selected</string>
 	<key>Normal</key>
-	<string>Normal</string>
+	<string>ปกติ</string>
 	<key>Nothing</key>
-	<string>No files</string>
+	<string>ไม่มีไฟล์</string>
 	<key>Notice</key>
 	<string>Notice</string>
 	<key>OK</key>
-	<string>OK</string>
+	<string>ตกลง</string>
 	<key>Photo</key>
-	<string>Photo</string>
+	<string>รูปถ่าย</string>
 	<key>Photo Failed</key>
 	<string>Failed</string>
 	<key>Photo Start</key>
@@ -125,7 +125,7 @@
 	<key>Photo Success</key>
 	<string>Photo successful</string>
 	<key>PhotoMode</key>
-	<string>Photo mode</string>
+	<string>โหมดรูปภาพ</string>
 	<key>Please Click To Get</key>
 	<string>Click to get</string>
 	<key>PleaseCloseTheCamera</key>
@@ -141,73 +141,73 @@
 	<key>Resolution not support Capture</key>
 	<string>Current mode does not support quick photo</string>
 	<key>Restart Camera ?</key>
-	<string>Reboot camera?</string>
+	<string>เริ่มกล้องใหม่?</string>
 	<key>Restore Factory Or Not ?</key>
-	<string>Restore factory settings?</string>
+	<string>แน่ใจว่าต้องการล้างค่าเริ่มต้น?</string>
 	<key>S.Fine</key>
-	<string>High</string>
+	<string>สูง</string>
 	<key>SD Card insert</key>
-	<string>Insert SD Card</string>
+	<string>ใส่ SD การ์ด</string>
 	<key>SD Card remove</key>
-	<string>Remove SD Card</string>
+	<string>ถอด SD การ์ด</string>
 	<key>SDCard</key>
-	<string>SD Card</string>
+	<string>SD การ์ด</string>
 	<key>SDCardCapacity</key>
-	<string>SD Card</string>
+	<string>SD การ์ด</string>
 	<key>SDCardSpeed</key>
-	<string>SD Card speed</string>
+	<string>ความเร็ว SD การ์ด</string>
 	<key>SDCardType</key>
-	<string>SD Card type</string>
+	<string>ปะเภท SD การ์ด</string>
 	<key>Same Time</key>
-	<string>Date sync</string>
+	<string>ซิ้งค์วันที่</string>
 	<key>Save</key>
-	<string>Save</string>
+	<string>บันทึก</string>
 	<key>Saving</key>
-	<string>Saving</string>
+	<string>กำลังบันทึก</string>
 	<key>Setting</key>
-	<string>Settings</string>
+	<string>ตั้งค่า</string>
 	<key>SettingFailed</key>
-	<string>Saving failed</string>
+	<string>บันทึกผิดผลาด</string>
 	<key>SettingSuccess</key>
-	<string>Saved</string>
+	<string>บันทึกแล้ว</string>
 	<key>Single</key>
-	<string>Photo</string>
+	<string>รูปถ่าย</string>
 	<key>Software Version</key>
-	<string>App version</string>
+	<string>แอปเวอร์ชั่น</string>
 	<key>Speeding</key>
 	<string>Speeding</string>
 	<key>Square</key>
 	<string>Square</string>
 	<key>Success</key>
-	<string>Success</string>
+	<string>เสร็จสิ้น</string>
 	<key>System Busy</key>
-	<string>System is busy</string>
+	<string>ระบบไม่ว่าง</string>
 	<key>TFCardIsFull</key>
-	<string>SD Card is full</string>
+	<string>SD การ์ดเต็ม</string>
 	<key>TakePhoto</key>
 	<string>Take photo</string>
 	<key>Taking Photo</key>
-	<string>Photo...</string>
+	<string>รูปถ่าย...</string>
 	<key>This resolution has no side stream video</key>
 	<string>Current resolution does not support live view</string>
 	<key>This resolution video no preview and side stream</key>
 	<string>Current resolution does not support live view</string>
 	<key>Time synchronous camera</key>
-	<string>Sync date and time?</string>
+	<string>ซิ้งค์ วันและเวลา?</string>
 	<key>TotalCapacity</key>
-	<string>Capacity</string>
+	<string>ขนาดความจุ</string>
 	<key>TryAgain</key>
-	<string>Try again</string>
+	<string>ลองอีกครั้ง</string>
 	<key>Version information</key>
-	<string>Version info</string>
+	<string>ข้อมูลเวอร์ชั่น</string>
 	<key>Vidoe</key>
-	<string>Video</string>
+	<string>วิดีโอ</string>
 	<key>VidoeMode</key>
-	<string>Video mode</string>
+	<string>โหมด วิดีโอ</string>
 	<key>Wifi Message</key>
-	<string>Wi-Fi settings</string>
+	<string>ตั้งค่า Wi-Fi</string>
 	<key>_8mmfilm</key>
-	<string>8mm film</string>
+	<string>8mm ฟิล์ม</string>
 	<key>alert_user_label</key>
 	<string>Tap screen twice to return to camera interface</string>
 	<key>all disable</key>
@@ -217,7 +217,7 @@
 	<key>auto_low_light</key>
 	<string>Auto low light</string>
 	<key>auto_power_off</key>
-	<string>Auto power off</string>
+	<string>ปิดเครื่องอัตโนมั้ติ</string>
 	<key>average</key>
 	<string>Average</string>
 	<key>brightbeau</key>
@@ -517,7 +517,7 @@
 	<key>firm_notUpdateNow</key>
 	<string>Ignore update now</string>
 	<key>firm_not_connected_camera</key>
-	<string>Camera have not been connected yet</string>
+	<string>ยังไม่ได้เชื่อมต่อกล้อง</string>
 	<key>firm_not_supported</key>
 	<string>Updating does not support</string>
 	<key>firm_prompt</key>
@@ -537,41 +537,41 @@
 	<key>firm_success_title</key>
 	<string>Updated successfully</string>
 	<key>firm_sure</key>
-	<string>Confirm</string>
+	<string>ยอมรับ</string>
 	<key>firm_unsupported</key>
 	<string>Camera firmware update</string>
 	<key>firm_updateFirmwareFail</key>
-	<string>Unable to update firmware</string>
+	<string>ไม่สามารถอัปเดตเฟริมแวร์</string>
 	<key>firm_updateNow</key>
-	<string>Update</string>
+	<string>อัปเดต</string>
 	<key>firm_updating</key>
-	<string>Firmware uploading to camera...</string>
+	<string>กำลังอัปโหลดเฟริมแวร์ไปยังกล้อง...</string>
 	<key>firm_warning</key>
-	<string>Warning</string>
+	<string>คำเตือน</string>
 	<key>firm_wifiWillDownload</key>
-	<string>Downloading will start after Wi-Fi is connected</string>
+	<string>การดาวน์โหลดจะเริ่มต้นหลังจากที่ Wi-Fi เชื่อมต่อ</string>
 	<key>firm_willUpdateIn5s</key>
 	<string>Camera will start updating process in 5 seconds</string>
 	<key>firm_wrongMD5</key>
 	<string>MD5 check error, re-download file</string>
 	<key>firm_wwan</key>
-	<string>Not connected to Wi-Fi network, carrier network will be used. Continue?</string>
+	<string>ไม่ได้เชื่อมต่อกับเครือข่าย Wi-Fi ของผู้ให้บริการเครือข่ายจะนำไปใช้ ต้องการทำต่อ?</string>
 	<key>firmware_download_failed</key>
-	<string>Firmware download failed!</string>
+	<string>ดาวโหลดเฟริมแวร์ผิดผลาด!</string>
 	<key>firmware_upgrade_download_firmware</key>
-	<string>Firmware download...</string>
+	<string>ดาวโหลดเฟริมแวร์...</string>
 	<key>firmware_upgrade_switch_wifi</key>
-	<string>Turning Wi-Fi on...</string>
+	<string>เปิด ไวไฟ...</string>
 	<key>firmware_upgrade_tip</key>
 	<string>Firmware updating, do not turn camera or Wi-Fi off!</string>
 	<key>format_SD_error</key>
-	<string>SD Card error</string>
+	<string>SD การ์ดผิดผลาด</string>
 	<key>generate_GIF</key>
 	<string>GIF</string>
 	<key>generate_MP4</key>
 	<string>MP4</string>
 	<key>high</key>
-	<string>High</string>
+	<string>สูง</string>
 	<key>keep_cont_pic</key>
 	<string>Burst mode</string>
 	<key>led_all_disable</key>
@@ -585,7 +585,7 @@
 	<key>loop_record</key>
 	<string>Loop Record</string>
 	<key>low</key>
-	<string>Low</string>
+	<string>ต่ำ</string>
 	<key>meter_average</key>
 	<string>Average</string>
 	<key>meter_center</key>
@@ -679,27 +679,27 @@
 	<key>save_toPhotoAlbum</key>
 	<string>Saved to photo album</string>
 	<key>sd_error</key>
-	<string>No card</string>
+	<string>ไม่มี sd การ์ด</string>
 	<key>sd_hc</key>
-	<string>SDHC Card</string>
+	<string>SDHC การ์ด</string>
 	<key>sd_xc</key>
-	<string>SDXC Card</string>
+	<string>SDXC การ์ด</string>
 	<key>sdcard_size</key>
 	<string>Available %@/Total %@</string>
 	<key>sdcard_size_available</key>
 	<string>Available</string>
 	<key>sdcard_size_total</key>
-	<string>Total</string>
+	<string>ทั้งหมด</string>
 	<key>second</key>
-	<string>sec.</string>
+	<string>วินาที.</string>
 	<key>sepia</key>
 	<string>Sepia</string>
 	<key>serial_number</key>
-	<string>Serial number</string>
+	<string>หมายเลขผลิตภัณฑ์</string>
 	<key>set_off</key>
-	<string>Off</string>
+	<string>ปิด</string>
 	<key>set_on</key>
-	<string>On</string>
+	<string>เปิด</string>
 	<key>setting_auto_low_light</key>
 	<string>Auto low light</string>
 	<key>setting_auto_power_off</key>
@@ -711,13 +711,13 @@
 	<key>setting_buzzer_volume</key>
 	<string>Speaker volume</string>
 	<key>setting_camera</key>
-	<string>Camera</string>
+	<string>กล้อง</string>
 	<key>setting_camera_clock</key>
 	<string>Time</string>
 	<key>setting_capture_default_mode</key>
 	<string>Standard photo mode</string>
 	<key>setting_device</key>
-	<string>Device</string>
+	<string>อุปกรณ์</string>
 	<key>setting_failed</key>
 	<string>Update setting failed</string>
 	<key>setting_hw_version</key>
@@ -729,37 +729,37 @@
 	<key>setting_meter_mode</key>
 	<string>Metering mode</string>
 	<key>setting_photo</key>
-	<string>Photo</string>
+	<string>รูปถ่าย</string>
 	<key>setting_photo_size</key>
-	<string>Resolution</string>
+	<string>ความละเอียด</string>
 	<key>setting_photo_stamp</key>
-	<string>Time stamp</string>
+	<string>ประทับเวลา</string>
 	<key>setting_preview_status</key>
 	<string>Live view</string>
 	<key>setting_restore_factory_settings</key>
-	<string>Restore factory settings</string>
+	<string>เรียกคืนการตั้งค่าโรงงาน</string>
 	<key>setting_sdcard</key>
-	<string>SD Card</string>
+	<string>SD การ์ด</string>
 	<key>setting_serial_number</key>
-	<string>Serial number</string>
+	<string>หมายเลขผลิตภัณฑ์</string>
 	<key>setting_start_wifi_while_booted</key>
 	<string>Wi-Fi on boot</string>
 	<key>setting_sw_version</key>
-	<string>Firmware version</string>
+	<string>เฟริมแวร์เวอร์ชั่น</string>
 	<key>setting_system_default_mode</key>
 	<string>Standard camera mode</string>
 	<key>setting_unsupported_resolution</key>
 	<string>Current resolution does not support auto low light setting</string>
 	<key>setting_video</key>
-	<string>Video</string>
+	<string>วิดีโอ</string>
 	<key>setting_video_quality</key>
 	<string>Quality</string>
 	<key>setting_video_resolution</key>
-	<string>Resolution</string>
+	<string>ความละเอียด</string>
 	<key>setting_video_standard</key>
-	<string>Standard</string>
+	<string>มาตรฐาน</string>
 	<key>setting_video_time_stamp</key>
-	<string>Time stamp</string>
+	<string>ประทับเวลา</string>
 	<key>setting_warp_enable</key>
 	<string>Warp correction</string>
 	<key>setting_wifi</key>
@@ -783,11 +783,11 @@
 	<key>should_connect_to_outside_wifi</key>
 	<string>To download the firmware you must connect to Wi-Fi network.Disconnect from camera?</string>
 	<key>single_pic</key>
-	<string>Normal</string>
+	<string>ปกติ</string>
 	<key>slot_error</key>
-	<string>System error</string>
+	<string>ระบบผิดผลาด</string>
 	<key>sns_accomplish</key>
-	<string>Finished</string>
+	<string>เสร็จสิ้น</string>
 	<key>sns_alert_3g_network</key>
 	<string>You are using carrier network that will consume money depending on your tariff</string>
 	<key>sns_alert_tapped_again</key>
@@ -795,91 +795,91 @@
 	<key>sns_already_download</key>
 	<string>Available in download list</string>
 	<key>sns_app_edition</key>
-	<string>App version</string>
+	<string>แอปเวอร์ชั่น</string>
 	<key>sns_attention</key>
-	<string>Attention: This step is important</string>
+	<string>โปรดทราบ: ขั้นตอนนี้เป็นสิ่งที่สำคัญ</string>
 	<key>sns_button_confirm</key>
-	<string>Confirm</string>
+	<string>ยืนยัน</string>
 	<key>sns_buy</key>
-	<string>Buy</string>
+	<string>ซื้อ</string>
 	<key>sns_camera_firmware_renew</key>
 	<string>xiaoyiGuJian%@.bin</string>
 	<key>sns_can_not_link_server</key>
 	<string>Firmware host is not available, try again later</string>
 	<key>sns_cancel</key>
-	<string>Cancel</string>
+	<string>ยกเลิก</string>
 	<key>sns_checkUpdates</key>
-	<string>Check update</string>
+	<string>เช็คอัปเดต</string>
 	<key>sns_check_firmware_renew_file</key>
 	<string>Firmware file check</string>
 	<key>sns_classify</key>
-	<string>Classify</string>
+	<string>หมวดหมู่</string>
 	<key>sns_confirm</key>
-	<string>Confirm</string>
+	<string>ยอมรับ</string>
 	<key>sns_content_of_share</key>
-	<string>Share</string>
+	<string>แชร์</string>
 	<key>sns_content_personal</key>
 	<string>My files</string>
 	<key>sns_detail_one</key>
-	<string>Click Power button to see LED</string>
+	<string>คลิกที่ปุ่มเพาเวอร์ที่จะเห็นไฟ LED</string>
 	<key>sns_detail_three</key>
-	<string>Open Wi-Fi settings and connect to YDXJ network</string>
+	<string>เปิดการตั้งค่าการเชื่อมต่อ Wi-Fi และเชื่อมต่อกับกล้องชื่อ YDXJ</string>
 	<key>sns_detail_two</key>
-	<string>Click button, the LED will activate and start blinking</string>
+	<string>คลิกที่ปุ่ม LED จะเปิดใช้งานและเริ่มกระพริบ</string>
 	<key>sns_download_again</key>
-	<string>Download again</string>
+	<string>ดาวโหลดอีกครั้ง</string>
 	<key>sns_download_alert_message</key>
 	<string>Carrier network is used, money will be consumed depending on your tariff</string>
 	<key>sns_download_cancel</key>
-	<string>Cancel</string>
+	<string>ยกเลิก</string>
 	<key>sns_download_finish_not_save</key>
 	<string>File downloaded but can not be saved</string>
 	<key>sns_download_firmware_renew</key>
-	<string>Download</string>
+	<string>ดาวโหลด</string>
 	<key>sns_download_firmware_renew_again</key>
 	<string>File corrupted, try to download it again</string>
 	<key>sns_download_go_on</key>
-	<string>Continue</string>
+	<string>ทำต่อ</string>
 	<key>sns_download_management</key>
-	<string>Download manager</string>
+	<string>การจัดการดาวโหลด</string>
 	<key>sns_download_progress</key>
-	<string>Downloaded %@</string>
+	<string>ดาวโหลดแล้ว %@</string>
 	<key>sns_download_successed_connect_camera</key>
 	<string>Download finished, connect to camera to firmware update</string>
 	<key>sns_download_to_background</key>
-	<string>Background download</string>
+	<string>ดาวน์โหลดพื้นหลัง</string>
 	<key>sns_edition_is_new</key>
-	<string>Using latest version</string>
+	<string>ใช้รุ่นล่าสุด</string>
 	<key>sns_error_get_user_info</key>
-	<string>Unable to get user info</string>
+	<string>ไม่สามารถดูข้อมูลของผู้ใช้</string>
 	<key>sns_exit_connect_camera</key>
 	<string>Firmware file is ready, connect to camera to firmware update</string>
 	<key>sns_exit_firmware_renew_file</key>
-	<string>Firmware file check...</string>
+	<string>เช็คเฟริมแวร์ตัวใหม่...</string>
 	<key>sns_failed_create_video_file</key>
-	<string>Failed to create video file or folder</string>
+	<string>ไม่สามารถสร้างไฟล์วิดีโอหรือโฟลเดอร์</string>
 	<key>sns_failed_download_again</key>
-	<string>Download failed, try again</string>
+	<string>ดาวน์โหลดล้มเหลวโปรดลองอีกครั้ง</string>
 	<key>sns_failed_download_pic</key>
-	<string>Failed to download photo</string>
+	<string>ไม่สามารถดาวน์โหลดภาพ</string>
 	<key>sns_failed_network_is_bad</key>
 	<string>Failed to update, check your network</string>
 	<key>sns_file_all_video</key>
-	<string> All video</string>
+	<string>วิดีโอทั้งหมด</string>
 	<key>sns_firmware_edition</key>
-	<string>Firmware version</string>
+	<string>เฟริมแวร์เวอร์ชั่น</string>
 	<key>sns_firmware_no_md5</key>
-	<string>MD5 info is not available, download again</string>
+	<string>MD5 ข้อมูลที่ไม่สามารถใช้ได้ ลองดาวน์โหลดอีกครั้ง</string>
 	<key>sns_have_new_edition</key>
-	<string>New version available</string>
+	<string>มีรุ่นใหม่ที่สามารถใช้ได้</string>
 	<key>sns_header_one</key>
-	<string>Turn camera on</string>
+	<string>เปิดกล้อง</string>
 	<key>sns_header_three</key>
-	<string>Connect to phone</string>
+	<string>เชื่อมต่อกับไอโฟน</string>
 	<key>sns_header_two</key>
-	<string>Turn Wi-Fi on</string>
+	<string>เปิด Wi-Fi</string>
 	<key>sns_home_found</key>
-	<string>Home</string>
+	<string>โฮม</string>
 	<key>sns_home_my</key>
 	<string>Profile</string>
 	<key>sns_hot_photo</key>
@@ -889,7 +889,7 @@
 	<key>sns_link_network_try_again</key>
 	<string>Check you network connection</string>
 	<key>sns_loading</key>
-	<string>Loading</string>
+	<string>กำลังโหลด</string>
 	<key>sns_login_button</key>
 	<string>Click to login</string>
 	<key>sns_more</key>
@@ -983,7 +983,7 @@
 	<key>tvPhoto</key>
 	<string>Photo</string>
 	<key>tvPhotographMode</key>
-	<string>Photo</string>
+	<string>รูปภาพ</string>
 	<key>tvQuickShotMode</key>
 	<string>Snapshot</string>
 	<key>tvRecordMode</key>
@@ -995,39 +995,39 @@
 	<key>tv_burst</key>
 	<string>Burst mode</string>
 	<key>tv_normal</key>
-	<string>Normal</string>
+	<string>ปกติ</string>
 	<key>tv_timelapes</key>
 	<string>Timelapse</string>
 	<key>tv_timer</key>
 	<string>Timer</string>
 	<key>usb_storage_enable</key>
-	<string>USB mode</string>
+	<string>โหมด USB</string>
 	<key>video_filter</key>
 	<string>Filter</string>
 	<key>video_format</key>
 	<string>MP4</string>
 	<key>video_musicbg</key>
-	<string>Music</string>
+	<string>เพลง</string>
 	<key>video_output_dev_type</key>
 	<string>Video output type</string>
 	<key>video_quality</key>
-	<string>Quality</string>
+	<string>คุณภาพ</string>
 	<key>video_ratio</key>
 	<string>4:3</string>
 	<key>video_record_complete</key>
 	<string>Finish record</string>
 	<key>video_resolution</key>
-	<string>Resolution</string>
+	<string>ความละเอียด</string>
 	<key>video_stamp</key>
-	<string>Time stamp</string>
+	<string>ประทับเวลา</string>
 	<key>video_standard</key>
-	<string>Standard</string>
+	<string>มาตรฐาน</string>
 	<key>videoquality_fine</key>
-	<string>Normal</string>
+	<string>ปกติ</string>
 	<key>videoquality_normal</key>
-	<string>Low</string>
+	<string>ต่ำ</string>
 	<key>videoquality_superfine</key>
-	<string>High</string>
+	<string>สูง</string>
 	<key>warp_enable</key>
 	<string>Warp correction</string>
 	<key>wifi_alert_enter_right_name</key>
@@ -1043,18 +1043,20 @@
 	<key>wifi_content_alter_success</key>
 	<string>Wi-Fi settings saved, reconnect camera!</string>
 	<key>wifi_name_label</key>
-	<string>Wi-Fi name: </string>
+	<string>ชื่อ Wi-Fi: </string>
 	<key>wifi_name_placeholder</key>
 	<string>SSID</string>
 	<key>wifi_password_hint</key>
-	<string>Password hint</string>
+	<string>คำใบ้รหัสผ่าน</string>
 	<key>wifi_password_lalbel</key>
-	<string>Wi-Fi password: </string>
+	<string>รหัสไวไฟ: </string>
 	<key>wifi_password_placeholder</key>
-	<string>Enter new password</string>
+	<string>ใส่รหัสผ่านใหม่</string>
 	<key>wifi_password_show_label</key>
 	<string>Show password</string>
 	<key>wrap_enable</key>
 	<string>Warp correction</string>
+	<key>เวอร์ชั่นอุปกรณ์</key>
+	<string>เฟริมแวร์เวอร์ชั่น</string>
 </dict>
 </plist>
